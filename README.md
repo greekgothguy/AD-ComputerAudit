@@ -2,12 +2,10 @@
 
 A PowerShell-based tool to audit **Active Directory computer accounts**, with a focus on identifying **inactive** and **active** Windows devices based on `LastLogonDate`. Helps IT admins maintain a clean and secure directory by aligning with Microsoft’s device hygiene best practices.
 
----
+
 ## Author
 
-Dimitrios "GreekGothGuy" Kasderidis | Cybersecurity Analyst & Rechercher |[LinkedIN](https://www.linkedin.com/in/dimitrios-kasderidis-ab3768205/)
-
----
+Dimitrios "GreekGothGuy" Kasderidis | Cybersecurity Analyst & Rechercher | [LinkedIN](https://www.linkedin.com/in/dimitrios-kasderidis-ab3768205/)
 
 ## Features
 
@@ -19,8 +17,6 @@ Dimitrios "GreekGothGuy" Kasderidis | Cybersecurity Analyst & Rechercher |[Linke
   - Both (split into clearly labeled sections)
 - Option to export results to a `.txt` file
 - Built-in links to Microsoft’s official cleanup guidance and release information
-
----
 
 ## Getting Started
 
